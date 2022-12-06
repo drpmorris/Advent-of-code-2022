@@ -33,6 +33,9 @@
 			<Item Name="day 5 - stack--cluster.ctl" Type="VI" URL="../day 5 - stack--cluster.ctl"/>
 			<Item Name="Day 5 solution.vi" Type="VI" URL="../Day 5 solution.vi"/>
 		</Item>
+		<Item Name="06" Type="Folder">
+			<Item Name="Day 6.vi" Type="VI" URL="../Day 6.vi"/>
+		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Equal Comparable.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Comparison/Equal/Equal Comparable/Equal Comparable.lvclass"/>
