@@ -42,6 +42,18 @@
 			<Item Name="Main.vi" Type="VI" URL="../07/Main.vi"/>
 			<Item Name="system object.lvclass" Type="LVClass" URL="../07/classes/system object/system object.lvclass"/>
 		</Item>
+		<Item Name="08" Type="Folder">
+			<Item Name="Day 08 pt b.vi" Type="VI" URL="../08/Day 08 pt b.vi"/>
+			<Item Name="get total.vi" Type="VI" URL="../08/get total.vi"/>
+			<Item Name="Inspect row - one direction.vi" Type="VI" URL="../08/Inspect row - one direction.vi"/>
+			<Item Name="Inspect row from both ends.vi" Type="VI" URL="../08/Inspect row from both ends.vi"/>
+			<Item Name="Look down.vi" Type="VI" URL="../08/Look down.vi"/>
+			<Item Name="Look left.vi" Type="VI" URL="../08/Look left.vi"/>
+			<Item Name="Look right.vi" Type="VI" URL="../08/Look right.vi"/>
+			<Item Name="Look up.vi" Type="VI" URL="../08/Look up.vi"/>
+			<Item Name="part a.vi" Type="VI" URL="../08/part a.vi"/>
+			<Item Name="tree--cluster.ctl" Type="VI" URL="../08/tree--cluster.ctl"/>
+		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Delimited String to 1D String Array.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/Delimited String to 1D String Array.vi"/>
