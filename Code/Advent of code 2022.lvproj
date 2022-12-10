@@ -60,6 +60,10 @@
 			<Item Name="Increment head position.vi" Type="VI" URL="../09/Increment head position.vi"/>
 			<Item Name="Move tail.vi" Type="VI" URL="../09/Move tail.vi"/>
 		</Item>
+		<Item Name="10" Type="Folder">
+			<Item Name="day 10 Main.vi" Type="VI" URL="../10/day 10 Main.vi"/>
+		</Item>
+		<Item Name="state --enum.ctl" Type="VI" URL="../10/state --enum.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Delimited String to 1D String Array.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/Delimited String to 1D String Array.vi"/>
